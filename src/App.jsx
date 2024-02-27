@@ -1,6 +1,6 @@
 import React, { useContext, useEffect } from 'react';
 import './App.css';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom';
 import Home from './Components/Home/Home.jsx'
 import Products from './Components/Products/Products.jsx'
 import Cart from './Components/Cart/Cart.jsx'
@@ -25,7 +25,7 @@ import Notfound from './Components/Notfound/Notfound.jsx';
 
 function App() {
 
-  let routes = createBrowserRouter([
+  let routes = createHashRouter([
     { path: '', element: <Layout />, children: [
       {index:true , element:<ProtectedRoute><Home/></ProtectedRoute>},
       {path:'products' , element:<ProtectedRoute><Products/></ProtectedRoute>},
