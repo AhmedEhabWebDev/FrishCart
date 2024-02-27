@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/FrishCart/static/css/main.337ba52a.css",
+    "main.js": "/FrishCart/static/js/main.4c145ba4.js",
+    "static/media/fa-solid-900.ttf": "/FrishCart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/FrishCart/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/grocery-banner.png": "/FrishCart/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/FrishCart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/FrishCart/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/FrishCart/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/FrishCart/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/FrishCart/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/FrishCart/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/FrishCart/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/FrishCart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/Visa_Inc.-Logo.wine.png": "/FrishCart/static/media/Visa_Inc.-Logo.wine.66d16ddd81c234b4684a.png",
+    "static/media/App_Store_(iOS)-Badge-Logo.wine.png": "/FrishCart/static/media/App_Store_(iOS)-Badge-Logo.wine.1b0220ddf4f3d7c7c2b0.png",
+    "static/media/Google_Play-Badge-Logo.wine.png": "/FrishCart/static/media/Google_Play-Badge-Logo.wine.388cd1c5f7dcfced4e20.png",
+    "static/media/Amazon_Pay-Logo.wine.png": "/FrishCart/static/media/Amazon_Pay-Logo.wine.0987f3d2995b8311fa3a.png",
+    "static/media/PayPal-Logo.wine.png": "/FrishCart/static/media/PayPal-Logo.wine.f709e1f3e5c9b55bed81.png",
+    "static/media/Mastercard-Logo.wine.png": "/FrishCart/static/media/Mastercard-Logo.wine.5049aded89f45b7fd643.png",
+    "static/media/fa-regular-400.woff2": "/FrishCart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/freshcart-logo.svg": "/FrishCart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/FrishCart/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/FrishCart/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/FrishCart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FrishCart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FrishCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FrishCart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FrishCart/index.html",
+    "main.337ba52a.css.map": "/FrishCart/static/css/main.337ba52a.css.map",
+    "main.4c145ba4.js.map": "/FrishCart/static/js/main.4c145ba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337ba52a.css",
+    "static/js/main.4c145ba4.js"
+  ]
+}
